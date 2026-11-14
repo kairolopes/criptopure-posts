@@ -1,0 +1,302 @@
+{
+ "conta": "criptopure",
+ "conta_id": "17841450833445332",
+ "fuso": "America/Sao_Paulo",
+ "itens": [
+  {
+   "id": "01",
+   "data": "2026-11-16",
+   "slot": "feed12",
+   "tipo": "carrossel",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/chatbot-nao-preve/01.jpg",
+    "https://criptopure.kairolopes.com.br/chatbot-nao-preve/02.jpg",
+    "https://criptopure.kairolopes.com.br/chatbot-nao-preve/03.jpg",
+    "https://criptopure.kairolopes.com.br/chatbot-nao-preve/04.jpg",
+    "https://criptopure.kairolopes.com.br/chatbot-nao-preve/05.jpg",
+    "https://criptopure.kairolopes.com.br/chatbot-nao-preve/06.jpg",
+    "https://criptopure.kairolopes.com.br/chatbot-nao-preve/07.jpg",
+    "https://criptopure.kairolopes.com.br/chatbot-nao-preve/08.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chatbot-nao-preve/01.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chatbot-nao-preve/02.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chatbot-nao-preve/03.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chatbot-nao-preve/04.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chatbot-nao-preve/05.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chatbot-nao-preve/06.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chatbot-nao-preve/07.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chatbot-nao-preve/08.jpg"
+   ],
+   "legenda": "Chatbot não prevê preço. Ele só soa convincente.\nPerguntar \"qual cripto vai subir?\" devolve texto plausível, não previsão. O uso útil é outro: cole um dado que você checou e peça resumo, comparação e perguntas que ele responde.\nPeça sempre que a IA cite a linha de cada número e informe quantas linhas leu. Depois confira 2 números na fonte.\nQual pergunta você já fez ao chatbot e se arrependeu? Conta nos comentários.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#ia #cripto #inteligenciaartificial #criptomoedas #chatbot",
+   "sha256": "0e304e52931f3c992d7c2f5f2a7fd6d916bf38c02a66a921605a6578b91f5edb"
+  },
+  {
+   "id": "02",
+   "data": "2026-11-19",
+   "slot": "feed12",
+   "tipo": "carrossel",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/coingecko-mcp-dados-reais/01.jpg",
+    "https://criptopure.kairolopes.com.br/coingecko-mcp-dados-reais/02.jpg",
+    "https://criptopure.kairolopes.com.br/coingecko-mcp-dados-reais/03.jpg",
+    "https://criptopure.kairolopes.com.br/coingecko-mcp-dados-reais/04.jpg",
+    "https://criptopure.kairolopes.com.br/coingecko-mcp-dados-reais/05.jpg",
+    "https://criptopure.kairolopes.com.br/coingecko-mcp-dados-reais/06.jpg",
+    "https://criptopure.kairolopes.com.br/coingecko-mcp-dados-reais/07.jpg",
+    "https://criptopure.kairolopes.com.br/coingecko-mcp-dados-reais/08.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/coingecko-mcp-dados-reais/01.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/coingecko-mcp-dados-reais/02.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/coingecko-mcp-dados-reais/03.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/coingecko-mcp-dados-reais/04.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/coingecko-mcp-dados-reais/05.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/coingecko-mcp-dados-reais/06.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/coingecko-mcp-dados-reais/07.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/coingecko-mcp-dados-reais/08.jpg"
+   ],
+   "legenda": "Sem dado, sua IA chuta o preço. Dá para ela consultar o dado.\nA CoinGecko tem um conector MCP gratuito, sem chave, para o assistente consultar dados de mercado em vez de inventar. Os limites são compartilhados e o dado é agregado: pode diferir da sua corretora.\nPeça a lista de chamadas e confira 3 números na fonte. Fonte: CoinGecko.\nQual conferência você faria primeiro? Conta nos comentários.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#ia #cripto #mcp #inteligenciaartificial #dadosdemercado",
+   "sha256": "98141c872380ff09eed1868f63e860f9daa67d5e3450560921380d0ce2be5af5"
+  },
+  {
+   "id": "10",
+   "data": "2026-11-20",
+   "slot": "feed12",
+   "tipo": "carrossel",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/sentimento-contexto/01.jpg",
+    "https://criptopure.kairolopes.com.br/sentimento-contexto/02.jpg",
+    "https://criptopure.kairolopes.com.br/sentimento-contexto/03.jpg",
+    "https://criptopure.kairolopes.com.br/sentimento-contexto/04.jpg",
+    "https://criptopure.kairolopes.com.br/sentimento-contexto/05.jpg",
+    "https://criptopure.kairolopes.com.br/sentimento-contexto/06.jpg",
+    "https://criptopure.kairolopes.com.br/sentimento-contexto/07.jpg",
+    "https://criptopure.kairolopes.com.br/sentimento-contexto/08.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/sentimento-contexto/01.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/sentimento-contexto/02.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/sentimento-contexto/03.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/sentimento-contexto/04.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/sentimento-contexto/05.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/sentimento-contexto/06.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/sentimento-contexto/07.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/sentimento-contexto/08.jpg"
+   ],
+   "legenda": "Sentimento nas redes mede a conversa, não o futuro. Usar o número como gatilho confunde barulho com informação.\nSantiment e LunarCrush mostram volume e tom do que se fala em redes e fóruns. Nas páginas que li (11/11/2026) não achei métrica de acerto dos modelos, e a página de volume social da Santiment não menciona filtro de bots ou spam. O histórico pode ser recalculado.\nUse como contexto: escolha uma métrica, escreva a hipótese antes, cruze com preço e volume e anote os casos contrários. A IA pode resumir textos que você colou e listar contra-argumentos. Você confere a conta.\nQue métrica você olha antes de decidir? Conta nos comentários.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#ia #cripto #sentimento #analisededados #inteligenciaartificial",
+   "sha256": "32c9e9b22dfc58c64032e976bb7b6baa385f8b1246457958e8917fb67ff1fafe"
+  },
+  {
+   "id": "14",
+   "data": "2026-11-22",
+   "slot": "feed12",
+   "tipo": "carrossel",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/codigo-gerado/01.jpg",
+    "https://criptopure.kairolopes.com.br/codigo-gerado/02.jpg",
+    "https://criptopure.kairolopes.com.br/codigo-gerado/03.jpg",
+    "https://criptopure.kairolopes.com.br/codigo-gerado/04.jpg",
+    "https://criptopure.kairolopes.com.br/codigo-gerado/05.jpg",
+    "https://criptopure.kairolopes.com.br/codigo-gerado/06.jpg",
+    "https://criptopure.kairolopes.com.br/codigo-gerado/07.jpg",
+    "https://criptopure.kairolopes.com.br/codigo-gerado/08.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/codigo-gerado/01.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/codigo-gerado/02.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/codigo-gerado/03.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/codigo-gerado/04.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/codigo-gerado/05.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/codigo-gerado/06.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/codigo-gerado/07.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/codigo-gerado/08.jpg"
+   ],
+   "legenda": "Compilou não é o mesmo que estar certo. Pedi a uma IA um script de estratégia e li o que faltava nele.\nTeste de bastidor, com limites: 1 tentativa, um modelo (Claude Sonnet 5.5), 11/11/2026, exemplo fictício de cruzamento de médias, não é estratégia para copiar. Não rodei o script no TradingView: foi revisão de texto, feita pelo mesmo modelo que escreveu o código. Não há resultado de desempenho.\nO que faltava: custos (o script não informa comissão nem slippage; confira o que a plataforma assume e configure custos realistas), limite de tamanho (100% do capital por entrada), stop e perda máxima, período separado para teste. Não achei bug de lógica.\nDepois da leitura: procure o que olha o futuro (lookahead sem offset, calc_on_every_tick, gráficos Heikin Ashi e Renko) e simule. No Freqtrade, --dry-run remove as chaves da corretora e simula as operações; lookahead-analysis ajuda, mas pode deixar passar viés (docs, 11/11/2026).\nNunca rode código gerado por IA com chave real. Chave só sem permissão de saque e com IP restrito.\nQue item dessa revisão você esqueceria? Conta nos comentários.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#ia #cripto #pinescript #backtest #inteligenciaartificial",
+   "sha256": "65328b9678c6df87e3a83b43967586600a03b48756cef390246b76cee4491d3a"
+  },
+  {
+   "id": "03",
+   "data": "2026-11-23",
+   "slot": "feed12",
+   "tipo": "carrossel",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/chave-de-api-sem-saque/01.jpg",
+    "https://criptopure.kairolopes.com.br/chave-de-api-sem-saque/02.jpg",
+    "https://criptopure.kairolopes.com.br/chave-de-api-sem-saque/03.jpg",
+    "https://criptopure.kairolopes.com.br/chave-de-api-sem-saque/04.jpg",
+    "https://criptopure.kairolopes.com.br/chave-de-api-sem-saque/05.jpg",
+    "https://criptopure.kairolopes.com.br/chave-de-api-sem-saque/06.jpg",
+    "https://criptopure.kairolopes.com.br/chave-de-api-sem-saque/07.jpg",
+    "https://criptopure.kairolopes.com.br/chave-de-api-sem-saque/08.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chave-de-api-sem-saque/01.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chave-de-api-sem-saque/02.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chave-de-api-sem-saque/03.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chave-de-api-sem-saque/04.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chave-de-api-sem-saque/05.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chave-de-api-sem-saque/06.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chave-de-api-sem-saque/07.jpg",
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/chave-de-api-sem-saque/08.jpg"
+   ],
+   "legenda": "Antes de ligar um bot à corretora, desligue o saque da chave.\nEm corretoras com documentação oficial consultada, saque é uma permissão separada e pode ficar desligada. Comece pela leitura, restrinja por IP quando der e deixe só um valor pequeno na conta do bot.\nIsso reduz o risco; não o elimina. Nunca cole chave, segredo, seed ou senha em chat de IA.\nQual dúvida você tem sobre permissões de chave? Conta nos comentários, sem mostrar chave nem segredo.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#cripto #seguranca #apicripto #inteligenciaartificial #bots\n\n(Nota: nenhum nome de corretora nos slides nem na legenda, conforme o verificador. Binance e Kraken aparecem só nas notas abaixo, como fonte. Se o dono quiser citar nomes, só como exemplo de documentação, sem link de afiliado.)",
+   "sha256": "e695fcafc17aae2cc00b6202eae2d738c95c23996d10437dc8139921c17cb441"
+  },
+  {
+   "id": "09",
+   "data": "2026-11-19",
+   "slot": "feed19",
+   "tipo": "imagem",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/alerta-regra/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/alerta-regra/01.jpg"
+   ],
+   "legenda": "Alerta não é bola de cristal: ele só avisa que uma condição que VOCÊ escreveu aconteceu.\nAntes de criar o alerta, escreva a regra: [condição], o que você faz se disparar, a perda máxima e o que faz se não disparar. Os números são seus; aqui não há nível recomendado.\nA IA pode ajudar a redigir a condição em frase clara e a listar situações em que ela dispararia à toa. Ela não conhece a sua corretora, as suas taxas nem a sua perda máxima, e pode tender a concordar com o que você escreve. Peça cenários em que a regra falha e refaça um deles à mão.\nDetalhes que a ajuda oficial do TradingView confirma (lida em 11/11/2026): o alerta pode ser de preço ou de indicador; você escolhe a frequência (só uma vez, uma por barra, ao fechar a barra ou uma por minuto); o alerta comum tem validade máxima de 2 meses; e o número de alertas ativos depende do plano. Se o alerta expira, você acha que está coberto e não está.\nEm opinião: alerta demais costuma virar ruído, e ruído vira alerta ignorado.\nQual regra você escreveria antes do alerta? Conta nos comentários, sem passar nível de preço.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#alerta #tradingview #gestaoderisco #inteligenciaartificial #cripto",
+   "sha256": "c15e5f9b30a912ddf12de17d47bd183acb4deda891f54224dbb5b72cc57d48dd"
+  },
+  {
+   "id": "11",
+   "data": "2026-11-20",
+   "slot": "feed19",
+   "tipo": "imagem",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/checklist-onchain/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/checklist-onchain/01.jpg"
+   ],
+   "legenda": "Dado on-chain parece fato. O dashboard é uma consulta feita por alguém, com filtros e definições que essa pessoa escolheu.\nEste post não diz que nenhum dashboard está errado. Diz como checar antes de usar.\n1. Quem fez e quando rodou. Na Dune, o dashboard não se atualiza sozinho: atualiza pelo botão Run ou por agendamento (doc da Dune, 11/11/2026).\n2. Abra a query, se o autor a deixou aberta: tabela, filtro, contrato. A Dune tem histórico de versões e uma visão de dependências da query. Menus mudam.\n3. Veja o que a métrica conta e o que deixa de fora. Exemplo: a DefiLlama define TVL como o valor de tokens bloqueados nos contratos do protocolo e explica o que exclui (docs.llama.fi, 11/11/2026). Outra fonte pode definir de outro jeito.\n4. Compare com uma segunda fonte, no mesmo intervalo. A API da DefiLlama é gratuita e sem chave, segundo a doc. Se os números diferem, compare primeiro as definições.\n5. Anote data, hora, intervalo e o link da query.\nUma IA pode explicar em português um SQL público, linha por linha. Você confere abrindo a tabela e o filtro. Nunca cole chave, seed ou senha no chat.\nQual dessas checagens você já faz? Conta nos comentários.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#ia #cripto #onchain #dados #analisededados",
+   "sha256": "99ef6459f0c47f81f901f1660f0001f44dbe3e6c21d620b0260ac8f717993f0c"
+  },
+  {
+   "id": "13",
+   "data": "2026-11-21",
+   "slot": "feed19",
+   "tipo": "imagem",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/prompt-documento/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/prompt-documento/01.jpg"
+   ],
+   "legenda": "Force a IA a dizer: não está no documento.\nAo pedir um resumo de relatório ou manual que você anexou, exija o trecho exato entre aspas e a lista do que o documento não responde. Quando ela precisa mostrar o trecho, fica mais fácil ver onde inventou.\nA checagem é sua: Ctrl+F do trecho no arquivo. Não achou? Pode ser paráfrase, invenção ou só uma quebra de linha, então teste com 4 ou 5 palavras do meio. Confirme também a lista do que \"não está\": a IA pode dizer que não está quando está.\nSe o PDF for escaneado (você não consegue selecionar o texto), a leitura pode falhar. Documento muito longo também: divida em partes. A documentação da Anthropic diz que pedir citações literais e permitir \"não sei\" reduz alucinação, mas não elimina (lida em 11/11/2026). Não testei este prompt em cada assistente.\nUse documento neutro e nunca anexe seed, chave ou senha.\nQue documento você já resumiu com IA sem conferir uma frase? Conta nos comentários.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#ia #cripto #inteligenciaartificial #prompt #checagem",
+   "sha256": "b27a30a30c0743f997d202a838c3f69515b22a68865f76e61b20db2f68f7a74c"
+  },
+  {
+   "id": "15",
+   "data": "2026-11-22",
+   "slot": "feed19",
+   "tipo": "imagem",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/termo-dry-run/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/termo-dry-run/01.jpg"
+   ],
+   "legenda": "Backtest, dry-run e ao vivo não são a mesma coisa, e um não substitui o outro.\nBacktest usa o passado. Dry-run usa o presente com dinheiro simulado: no Freqtrade, por exemplo, a flag --dry-run simula as ordens e não as envia à corretora, segundo a documentação oficial (lida em 11/11/2026). Ao vivo tem custo, atraso e emoção reais. A própria doc diz que o backtest nunca substitui o dry-run.\nMas dry-run também é simulação: a doc descreve como ele preenche as ordens, e o mercado real não obedece a essas regras. Passar nas três fases não garante resultado.\nO que fazer: antes de começar, escreva a perda máxima que você aceita e o tempo mínimo do dry-run. O número é seu; aqui não há prazo recomendado. Se um dia você conectar uma corretora, use chave sem permissão de saque e com restrição de IP, e nunca cole chave, seed ou senha num chat de IA.\nQual dessas três fases você costuma pular? Conta nos comentários.\n\nConteúdo educacional e opinativo. Não é recomendação de investimento. Cripto envolve risco de perda total.\n\n#backtest #dryrun #freqtrade #gestaoderisco #inteligenciaartificial",
+   "sha256": "424031dccde971ef4a616f06bf678c80abc71897fd0213a353d52a532ea1f6b1"
+  },
+  {
+   "id": "S06",
+   "data": "2026-11-17",
+   "slot": "story1930",
+   "tipo": "story",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/s06-golpe-robo-pergunta/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/s06-golpe-robo-pergunta/01.jpg"
+   ],
+   "legenda": "",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "id": "S07",
+   "data": "2026-11-18",
+   "slot": "story1930",
+   "tipo": "story",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/s07-backtest-pergunta/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/s07-backtest-pergunta/01.jpg"
+   ],
+   "legenda": "",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "id": "S09",
+   "data": "2026-11-19",
+   "slot": "story1930",
+   "tipo": "story",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/s09-alerta-pergunta/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/s09-alerta-pergunta/01.jpg"
+   ],
+   "legenda": "",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "id": "S11",
+   "data": "2026-11-20",
+   "slot": "story1930",
+   "tipo": "story",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/s11-onchain-pergunta/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/s11-onchain-pergunta/01.jpg"
+   ],
+   "legenda": "",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "id": "S13",
+   "data": "2026-11-21",
+   "slot": "story1930",
+   "tipo": "story",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/s13-prompt-documento-pergunta/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/s13-prompt-documento-pergunta/01.jpg"
+   ],
+   "legenda": "",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "id": "S15",
+   "data": "2026-11-22",
+   "slot": "story1930",
+   "tipo": "story",
+   "status": "aprovado",
+   "imagens": [
+    "https://criptopure.kairolopes.com.br/s15-dry-run-pergunta/01.jpg"
+   ],
+   "imagens_alt": [
+    "https://raw.githubusercontent.com/kairolopes/criptopure-posts/main/s15-dry-run-pergunta/01.jpg"
+   ],
+   "legenda": "",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+ ]
+}
